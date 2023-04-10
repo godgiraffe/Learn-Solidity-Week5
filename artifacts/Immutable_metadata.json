@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "setOwner",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"04_Immutable.sol": "Immutable"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"04_Immutable.sol": {
+			"keccak256": "0xe93330cef70ab1e8db0a54246c6e055a584a8904231361a58ffe7ec142ca038f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b7389eae230864558982c7d5ddbc0c9143d22bd5b221cadedeec47bfc8afdf49",
+				"dweb:/ipfs/QmVcTtJMx8htWihk1Fg9ryKiTBLj7JegZcsKJtXP6NBZob"
+			]
+		}
+	},
+	"version": 1
+}
